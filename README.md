@@ -1,5 +1,6 @@
 # data-exploration-projects
-Doing Exploratory Data Analysis and Advanced Data Analytics on different Datasets
+Doing Exploratory Data Analysis and Advanced Data Analytics on different Datasets.
+Refer to the information below to find out the **data sources** of different projects.
 
 ## eda_project1.sql
 Exploratoey Data Analysis on the data available in the **Data Warehouse** containing **Sales Data** along with **Customer** and **Product** details. 
